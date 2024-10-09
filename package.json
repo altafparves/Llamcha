@@ -1,0 +1,16 @@
+{
+  "name": "llamcha",
+  "version": "1.0.0",
+  "description": "![Screenshot](llamcha.png)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
